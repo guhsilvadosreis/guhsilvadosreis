@@ -64,29 +64,9 @@ Curto aprender rápido, manter organização, comunicar bem e entregar com respo
 
 ---
 
-## 📈 GitHub Stats (tema grafite)
-<p align="center">
-  <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="./profile/streak.svg" />
-</p>
-
-<p align="center">
-  <img height="170" src="./profile/top-langs.svg" />
-</p>
-
-
----
-
 ## 🧠 Atividade
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=guhsilvadosreis&amp;bg_color=0B0F17&amp;color=CBD5E1&amp;line=94A3B8&amp;point=E5E7EB&amp;area=true&amp;hide_border=true" />
-</p>
-
----
-
-## 🐍 Snake (contribuições animadas)
-<p align="center">
-  <img alt="snake eating my contributions" src="https://github.com/guhsilvadosreis/guhsilvadosreis/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
