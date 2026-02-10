@@ -66,13 +66,14 @@ Curto aprender rápido, manter organização, comunicar bem e entregar com respo
 
 ## 📈 GitHub Stats (tema grafite)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guhsilvadosreis&amp;show_icons=true&amp;hide_title=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0B0F17&amp;title_color=E5E7EB&amp;text_color=CBD5E1&amp;icon_color=94A3B8&amp;border_color=1F2937" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guhsilvadosreis&amp;background=0B0F17&amp;border=1F2937&amp;ring=94A3B8&amp;fire=CBD5E1&amp;currStreakLabel=E5E7EB&amp;sideLabels=E5E7EB&amp;currStreakNum=CBD5E1&amp;sideNums=CBD5E1&amp;dates=94A3B8" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/streak.svg" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhsilvadosreis&amp;layout=compact&amp;langs_count=10&amp;bg_color=0B0F17&amp;title_color=E5E7EB&amp;text_color=CBD5E1&amp;border_color=1F2937" />
+  <img height="170" src="./profile/top-langs.svg" />
 </p>
+
 
 ---
 
