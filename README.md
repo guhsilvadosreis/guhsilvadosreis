@@ -66,39 +66,39 @@ Curto aprender rápido, manter organização, comunicar bem e entregar com respo
 
 ## 📈 GitHub Stats (tema grafite)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guhsilvadosreis&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0B0F17&title_color=E5E7EB&text_color=CBD5E1&icon_color=94A3B8&border_color=1F2937" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guhsilvadosreis&background=0B0F17&border=1F2937&ring=94A3B8&fire=CBD5E1&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=94A3B8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guhsilvadosreis&amp;show_icons=true&amp;hide_title=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0B0F17&amp;title_color=E5E7EB&amp;text_color=CBD5E1&amp;icon_color=94A3B8&amp;border_color=1F2937" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guhsilvadosreis&amp;background=0B0F17&amp;border=1F2937&amp;ring=94A3B8&amp;fire=CBD5E1&amp;currStreakLabel=E5E7EB&amp;sideLabels=E5E7EB&amp;currStreakNum=CBD5E1&amp;sideNums=CBD5E1&amp;dates=94A3B8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhsilvadosreis&layout=compact&langs_count=10&bg_color=0B0F17&title_color=E5E7EB&text_color=CBD5E1&border_color=1F2937" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhsilvadosreis&amp;layout=compact&amp;langs_count=10&amp;bg_color=0B0F17&amp;title_color=E5E7EB&amp;text_color=CBD5E1&amp;border_color=1F2937" />
 </p>
 
 ---
 
 ## 🧠 Atividade
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=guhsilvadosreis&bg_color=0B0F17&color=CBD5E1&line=94A3B8&point=E5E7EB&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=guhsilvadosreis&amp;bg_color=0B0F17&amp;color=CBD5E1&amp;line=94A3B8&amp;point=E5E7EB&amp;area=true&amp;hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Snake (contribuições animadas)
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guhsilvadosreis/guhsilvadosreis/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/guhsilvadosreis/guhsilvadosreis/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🤝 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-silva-5886323ab/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=E5E7EB&labelColor=0B0F17" /></a>
-  <a href="mailto:guhsilvadosreis@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=E5E7EB&labelColor=0B0F17" /></a>
-  <a href="https://www.instagram.com/guhsilvadosreis/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E5E7EB&labelColor=0B0F17" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-silva-5886323ab/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E5E7EB&amp;labelColor=0B0F17" /></a>
+  <a href="mailto:guhsilvadosreis@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=E5E7EB&amp;labelColor=0B0F17" /></a>
+  <a href="https://www.instagram.com/guhsilvadosreis/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&amp;logo=instagram&amp;logoColor=E5E7EB&amp;labelColor=0B0F17" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guhsilvadosreis&label=views&color=111827&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=guhsilvadosreis&amp;label=views&amp;color=111827&amp;style=flat" />
 </p>
 
 <p align="center">
